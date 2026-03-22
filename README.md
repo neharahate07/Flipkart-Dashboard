@@ -37,3 +37,5 @@ Observed seasonal trends in sales
 Highlighted high-value customers and regions
 Found areas with low profit margins for improvement
 
+[Dashboard Screenshot](image-link)
+
