@@ -37,5 +37,5 @@ Observed seasonal trends in sales
 Highlighted high-value customers and regions
 Found areas with low profit margins for improvement
 
-[Dashboard Screenshot](image-link)
+[Dashboard Screenshot](https://github.com/neharahate07/Flipkart-Dashboard/commit/99215028001de5b8dde8a29bc054fcccf185691a)
 
