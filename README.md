@@ -46,11 +46,9 @@ DAX (Data Analysis Expressions) – Calculated measures and KPIs
 
 ## 📸 Dashboard Preview
 ![Dashboard](https://github.com/neharahate07/Flipkart-Dashboard/blob/main/Flipkart%20dashboard.png.jpeg)
-- <a file="https://github.com/neharahate07/Flipkart-Dashboard/blob/main/FlipMart%20Sales%20Dashboard.pbix">Pbix file
 
 ## 📂 Dataset
 Dataset used: FlipMart Sales Data (included in repository)
-- <a herf="https://github.com/neharahate07/Flipkart-Dashboard/blob/main/FlipMart%20Sales%20DATA%20set.xlsx">Dataset
 
 ## 📌 Conclusion
 - Discounts and reviews are key purchase drivers  
